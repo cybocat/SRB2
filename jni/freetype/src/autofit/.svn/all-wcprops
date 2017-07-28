@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit
+END
+afmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afmodule.h
+END
+afhints.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afhints.h
+END
+afindic.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afindic.h
+END
+afdummy.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afdummy.c
+END
+afdummy.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afdummy.h
+END
+afglobal.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afglobal.c
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/module.mk
+END
+afglobal.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afglobal.h
+END
+afloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afloader.c
+END
+aflatin.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/aflatin.c
+END
+afcjk.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afcjk.c
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/rules.mk
+END
+afwarp.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afwarp.c
+END
+afangles.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afangles.c
+END
+aftypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/aftypes.h
+END
+afpic.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afpic.c
+END
+afloader.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afloader.h
+END
+aflatin.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/aflatin.h
+END
+afcjk.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afcjk.h
+END
+afwarp.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afwarp.h
+END
+afangles.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afangles.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/Jamfile
+END
+afpic.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afpic.h
+END
+aferrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/aferrors.h
+END
+afmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afmodule.c
+END
+afhints.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afhints.c
+END
+afindic.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/autofit/afindic.c
+END

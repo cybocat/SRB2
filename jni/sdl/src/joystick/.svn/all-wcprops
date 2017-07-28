@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.3/src/joystick
+END
+SDL_joystick.c
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.3/src/joystick/SDL_joystick.c
+END
+SDL_sysjoystick.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.3/src/joystick/SDL_sysjoystick.h
+END
+SDL_joystick_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.3/src/joystick/SDL_joystick_c.h
+END

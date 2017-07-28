@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/psnames
+END
+pspic.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/psnames/pspic.c
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/psnames/rules.mk
+END
+pstables.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/psnames/pstables.h
+END
+pspic.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/psnames/pspic.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/psnames/Jamfile
+END
+psmodule.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/psnames/psmodule.c
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/psnames/module.mk
+END
+psnamerr.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/psnames/psnamerr.h
+END
+psmodule.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/psnames/psmodule.h
+END

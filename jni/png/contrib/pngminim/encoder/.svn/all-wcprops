@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/png/contrib/pngminim/encoder
+END
+gather.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/project/jni/png/contrib/pngminim/encoder/gather.sh
+END
+pngusr.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/project/jni/png/contrib/pngminim/encoder/pngusr.h
+END
+makefile.std
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/project/jni/png/contrib/pngminim/encoder/makefile.std
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/project/jni/png/contrib/pngminim/encoder/README
+END
+dummy_inflate.c
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/2/trunk/project/jni/png/contrib/pngminim/encoder/dummy_inflate.c
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/10/trunk/project/src
+END
+Settings.java
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/10/trunk/project/src/Settings.java
+END
+Utils.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10/trunk/project/src/Utils.java
+END
+MainActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/project/src/MainActivity.java
+END
+MyPreferenceActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/10/trunk/project/src/MyPreferenceActivity.java
+END
+Audio.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10/trunk/project/src/Audio.java
+END
+Globals.java
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/10/trunk/project/src/Globals.java
+END
+Video.java
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/10/trunk/project/src/Video.java
+END
+DataDownloader.java
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/10/trunk/project/src/DataDownloader.java
+END
+GLSurfaceView_SDL.java
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/10/trunk/project/src/GLSurfaceView_SDL.java
+END
+Accelerometer.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/project/src/Accelerometer.java
+END
+AssetExtract.java
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/10/trunk/project/src/AssetExtract.java
+END
+CoverActivity.java
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/10/trunk/project/src/CoverActivity.java
+END

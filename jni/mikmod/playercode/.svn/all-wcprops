@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/project/jni/mikmod/playercode
+END
+mdreg.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/playercode/mdreg.c
+END
+virtch.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/mikmod/playercode/virtch.c
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/mikmod/playercode/Makefile.in
+END
+mlutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/mikmod/playercode/mlutil.c
+END
+mlreg.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/playercode/mlreg.c
+END
+virtch_common.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/project/jni/mikmod/playercode/virtch_common.c
+END
+mdriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/project/jni/mikmod/playercode/mdriver.c
+END
+mplayer.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/project/jni/mikmod/playercode/mplayer.c
+END
+drv_nos.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/project/jni/mikmod/playercode/drv_nos.c
+END
+mwav.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/mikmod/playercode/mwav.c
+END
+virtch2.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/project/jni/mikmod/playercode/virtch2.c
+END
+mloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/project/jni/mikmod/playercode/mloader.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/mikmod/playercode/Makefile.am
+END
+munitrk.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/project/jni/mikmod/playercode/munitrk.c
+END
+sloader.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/project/jni/mikmod/playercode/sloader.c
+END
+mdulaw.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/mikmod/playercode/mdulaw.c
+END
+npertab.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/project/jni/mikmod/playercode/npertab.c
+END

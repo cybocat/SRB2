@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/video/picogui
+END
+SDL_pgvideo.c
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/video/picogui/SDL_pgvideo.c
+END
+SDL_pgvideo.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/video/picogui/SDL_pgvideo.h
+END
+SDL_pgevents_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/video/picogui/SDL_pgevents_c.h
+END
+SDL_pgevents.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/video/picogui/SDL_pgevents.c
+END

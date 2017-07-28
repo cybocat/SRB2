@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/raster
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/raster/rules.mk
+END
+ftraster.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/raster/ftraster.h
+END
+ftrend1.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/raster/ftrend1.c
+END
+rastpic.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/raster/rastpic.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/raster/Jamfile
+END
+ftrend1.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/raster/ftrend1.h
+END
+rasterrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/raster/rasterrs.h
+END
+ftraster.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/raster/ftraster.c
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/raster/module.mk
+END
+rastpic.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/raster/rastpic.h
+END
+ftmisc.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/raster/ftmisc.h
+END

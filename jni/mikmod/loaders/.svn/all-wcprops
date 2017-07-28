@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/Makefile.in
+END
+load_s3m.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_s3m.c
+END
+load_m15.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_m15.c
+END
+load_amf.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_amf.c
+END
+load_stm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_stm.c
+END
+load_ult.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_ult.c
+END
+load_med.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_med.c
+END
+load_gdm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_gdm.c
+END
+load_far.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_far.c
+END
+load_imf.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_imf.c
+END
+load_it.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_it.c
+END
+load_stx.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_stx.c
+END
+load_mod.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_mod.c
+END
+load_dsm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_dsm.c
+END
+load_xm.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_xm.c
+END
+load_669.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_669.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/Makefile.am
+END
+load_uni.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_uni.c
+END
+load_asy.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_asy.c
+END
+load_mtm.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_mtm.c
+END
+load_okt.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/mikmod/loaders/load_okt.c
+END

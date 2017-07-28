@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/main/beos
+END
+SDL_BeApp.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/main/beos/SDL_BeApp.h
+END
+SDL_BeApp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/main/beos/SDL_BeApp.cc
+END

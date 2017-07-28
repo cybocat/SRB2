@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/dos
+END
+dos-emx.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/dos/dos-emx.mk
+END
+dos-wat.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/dos/dos-wat.mk
+END
+dos-gcc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/dos/dos-gcc.mk
+END
+dos-def.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/dos/dos-def.mk
+END
+detect.mk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/dos/detect.mk
+END

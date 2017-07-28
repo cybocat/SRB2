@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/2/trunk/project/jni/mikmod
+END
+libmikmod-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/mikmod/libmikmod-config.in
+END
+mkinstalldirs
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/project/jni/mikmod/mkinstalldirs
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/project/jni/mikmod/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/project/jni/mikmod/Makefile.in
+END
+AUTHORS
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/project/jni/mikmod/AUTHORS
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/mikmod/configure.in
+END
+libmikmod.m4
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/mikmod/libmikmod.m4
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/project/jni/mikmod/Android.mk
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/mikmod/config.guess
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/project/jni/mikmod/config.sub
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/project/jni/mikmod/ltmain.sh
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/2/trunk/project/jni/mikmod/README
+END
+acconfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/project/jni/mikmod/acconfig.h
+END
+libmikmod.spec
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/jni/mikmod/libmikmod.spec
+END
+config.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/project/jni/mikmod/config.h.in
+END
+COPYING.LESSER
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/jni/mikmod/COPYING.LESSER
+END
+ltconfig
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/project/jni/mikmod/ltconfig
+END
+libmikmod.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/mikmod/libmikmod.spec.in
+END
+TODO
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/project/jni/mikmod/TODO
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/project/jni/mikmod/INSTALL
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/project/jni/mikmod/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/project/jni/mikmod/missing
+END
+NEWS
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/project/jni/mikmod/NEWS
+END
+COPYING.LIB
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/project/jni/mikmod/COPYING.LIB
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/project/jni/mikmod/aclocal.m4
+END
+stamp-h.in
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/project/jni/mikmod/stamp-h.in
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/project/jni/mikmod/install-sh
+END

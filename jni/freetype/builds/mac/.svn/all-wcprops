@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/mac
+END
+FreeType.ppc_classic.make.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/mac/FreeType.ppc_classic.make.txt
+END
+FreeType.ppc_carbon.make.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/mac/FreeType.ppc_carbon.make.txt
+END
+ascii2mpw.py
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/mac/ascii2mpw.py
+END
+FreeType.m68k_cfm.make.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/mac/FreeType.m68k_cfm.make.txt
+END
+ftlib.prj.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/mac/ftlib.prj.xml
+END
+FreeType.m68k_far.make.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/mac/FreeType.m68k_far.make.txt
+END
+ftmac.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/mac/ftmac.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/mac/README
+END

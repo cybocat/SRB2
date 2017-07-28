@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/2/trunk/project/jni/intl
+END
+libintl.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/project/jni/intl/libintl.h
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/project/jni/intl/Android.mk
+END
+COPYING.LIB-2.0
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/project/jni/intl/COPYING.LIB-2.0
+END
+COPYING.LIB-2.1
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/project/jni/intl/COPYING.LIB-2.1
+END

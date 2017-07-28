@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/gzip
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/gzip/rules.mk
+END
+ftgzip.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/gzip/ftgzip.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/gzip/Jamfile
+END

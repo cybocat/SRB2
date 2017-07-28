@@ -1,0 +1,323 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/2/trunk/project/jni/intl/src
+END
+plural-exp.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/jni/intl/src/plural-exp.h
+END
+threadlib.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/project/jni/intl/src/threadlib.c
+END
+printf-args.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/intl/src/printf-args.h
+END
+explodename.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/intl/src/explodename.c
+END
+printf.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/project/jni/intl/src/printf.c
+END
+dcigettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/jni/intl/src/dcigettext.c
+END
+localcharset.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/project/jni/intl/src/localcharset.c
+END
+dngettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/project/jni/intl/src/dngettext.c
+END
+localealias.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/intl/src/localealias.c
+END
+localcharset.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/project/jni/intl/src/localcharset.h
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/project/jni/intl/src/config.h
+END
+setlocale.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/project/jni/intl/src/setlocale.c
+END
+textdomain.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/jni/intl/src/textdomain.c
+END
+relocatable.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/intl/src/relocatable.c
+END
+langprefs.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/project/jni/intl/src/langprefs.c
+END
+bindtextdom.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/intl/src/bindtextdom.c
+END
+relocatable.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/intl/src/relocatable.h
+END
+export.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/project/jni/intl/src/export.h
+END
+vasnwprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/intl/src/vasnwprintf.h
+END
+intl-compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/intl/src/intl-compat.c
+END
+lock.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/project/jni/intl/src/lock.c
+END
+dgettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/intl/src/dgettext.c
+END
+tsearch.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/project/jni/intl/src/tsearch.c
+END
+vasnprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/jni/intl/src/vasnprintf.c
+END
+dcgettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/project/jni/intl/src/dcgettext.c
+END
+lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/project/jni/intl/src/lock.h
+END
+tsearch.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/project/jni/intl/src/tsearch.h
+END
+plural.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/project/jni/intl/src/plural.c
+END
+vasnprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/jni/intl/src/vasnprintf.h
+END
+localename.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/jni/intl/src/localename.c
+END
+loadinfo.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/intl/src/loadinfo.h
+END
+ngettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/intl/src/ngettext.c
+END
+wprintf-parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/intl/src/wprintf-parse.h
+END
+xsize.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/project/jni/intl/src/xsize.h
+END
+finddomain.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/jni/intl/src/finddomain.c
+END
+intl-exports.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/project/jni/intl/src/intl-exports.c
+END
+gettextP.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/intl/src/gettextP.h
+END
+dcngettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/jni/intl/src/dcngettext.c
+END
+osdep.c
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/project/jni/intl/src/osdep.c
+END
+printf-parse.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/project/jni/intl/src/printf-parse.c
+END
+libgnuintl.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/jni/intl/src/libgnuintl.h
+END
+l10nflist.c
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/project/jni/intl/src/l10nflist.c
+END
+loadmsgcat.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/jni/intl/src/loadmsgcat.c
+END
+printf-parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/project/jni/intl/src/printf-parse.h
+END
+log.c
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/project/jni/intl/src/log.c
+END
+gettext.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/project/jni/intl/src/gettext.c
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/project/jni/intl/src/version.c
+END
+hash-string.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/intl/src/hash-string.c
+END
+gmo.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/project/jni/intl/src/gmo.h
+END
+plural-exp.c
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/jni/intl/src/plural-exp.c
+END
+eval-plural.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/intl/src/eval-plural.h
+END
+hash-string.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/intl/src/hash-string.h
+END
+printf-args.c
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/intl/src/printf-args.c
+END

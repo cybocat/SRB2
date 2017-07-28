@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/2/trunk/project/jni/mikmod/include
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/mikmod/include/Makefile.in
+END
+mikmod_internals.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/project/jni/mikmod/include/mikmod_internals.h
+END
+mikmod_build.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/mikmod/include/mikmod_build.h
+END
+mikmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/project/jni/mikmod/include/mikmod.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/mikmod/include/Makefile.am
+END
+mikmod_build.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/mikmod/include/mikmod_build.h.in
+END
+mikmod.h.in
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/mikmod/include/mikmod.h.in
+END

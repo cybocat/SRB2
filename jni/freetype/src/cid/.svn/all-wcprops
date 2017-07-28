@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cid
+END
+cidparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cid/cidparse.h
+END
+cidload.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cid/cidload.c
+END
+ciderrs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cid/ciderrs.h
+END
+cidload.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cid/cidload.h
+END
+cidtoken.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cid/cidtoken.h
+END
+cidgload.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cid/cidgload.c
+END
+cidriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cid/cidriver.c
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cid/module.mk
+END
+cidgload.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cid/cidgload.h
+END
+cidriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cid/cidriver.h
+END
+cidobjs.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cid/cidobjs.c
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cid/rules.mk
+END
+cidobjs.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cid/cidobjs.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cid/Jamfile
+END
+cidparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cid/cidparse.c
+END

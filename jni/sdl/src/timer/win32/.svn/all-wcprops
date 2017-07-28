@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.3/src/timer/win32
+END
+SDL_systimer.c
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.3/src/timer/win32/SDL_systimer.c
+END

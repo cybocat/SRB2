@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache
+END
+ftccache.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache/ftccache.c
+END
+ftcmru.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache/ftcmru.c
+END
+ftccache.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache/ftccache.h
+END
+ftcmru.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache/ftcmru.h
+END
+ftccback.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache/ftccback.h
+END
+ftccmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache/ftccmap.c
+END
+ftcbasic.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache/ftcbasic.c
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache/rules.mk
+END
+ftcimage.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache/ftcimage.c
+END
+ftcmanag.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache/ftcmanag.c
+END
+ftcglyph.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache/ftcglyph.c
+END
+ftcsbits.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache/ftcsbits.c
+END
+ftcimage.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache/ftcimage.h
+END
+ftcmanag.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache/ftcmanag.h
+END
+ftcglyph.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache/ftcglyph.h
+END
+ftcsbits.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache/ftcsbits.h
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache/Jamfile
+END
+ftcerror.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/cache/ftcerror.h
+END

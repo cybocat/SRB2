@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/audio/symbian
+END
+SDL_epocaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/audio/symbian/SDL_epocaudio.h
+END
+streamplayer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/audio/symbian/streamplayer.cpp
+END
+SDL_epocaudio.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/audio/symbian/SDL_epocaudio.cpp
+END
+streamplayer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/audio/symbian/streamplayer.h
+END

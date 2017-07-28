@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/11/trunk/project/sdl/sdl-1.3/src
+END
+SDL_fatal.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.3/src/SDL_fatal.h
+END
+SDL_error_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.3/src/SDL_error_c.h
+END
+SDL.c
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.3/src/SDL.c
+END
+SDL_assert.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.3/src/SDL_assert.c
+END
+SDL_compat.c
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.3/src/SDL_compat.c
+END
+SDL_fatal.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.3/src/SDL_fatal.c
+END
+SDL_assert_c.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.3/src/SDL_assert_c.h
+END
+SDL_error.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.3/src/SDL_error.c
+END

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pcf
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pcf/rules.mk
+END
+pcfdrivr.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pcf/pcfdrivr.c
+END
+pcfdrivr.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pcf/pcfdrivr.h
+END
+pcfread.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pcf/pcfread.c
+END
+pcfutil.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pcf/pcfutil.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pcf/Jamfile
+END
+pcferror.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pcf/pcferror.h
+END
+pcfread.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pcf/pcfread.h
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pcf/module.mk
+END
+pcfutil.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pcf/pcfutil.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pcf/README
+END
+pcf.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pcf/pcf.h
+END

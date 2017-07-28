@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/otvalid
+END
+otvgdef.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/otvalid/otvgdef.c
+END
+otvjstf.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/otvalid/otvjstf.c
+END
+otvgpos.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/otvalid/otvgpos.c
+END
+otvcommn.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/otvalid/otvcommn.c
+END
+otvbase.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/otvalid/otvbase.c
+END
+otvgpos.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/otvalid/otvgpos.h
+END
+otvcommn.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/otvalid/otvcommn.h
+END
+otvalid.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/otvalid/otvalid.h
+END
+otvmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/otvalid/otvmod.c
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/otvalid/module.mk
+END
+otvmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/otvalid/otvmod.h
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/otvalid/rules.mk
+END
+otvmath.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/otvalid/otvmath.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/otvalid/Jamfile
+END
+otverror.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/otvalid/otverror.h
+END
+otvgsub.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/otvalid/otvgsub.c
+END

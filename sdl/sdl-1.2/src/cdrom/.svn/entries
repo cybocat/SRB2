@@ -1,0 +1,141 @@
+10
+
+dir
+17
+http://doom-android.googlecode.com/svn/trunk/project/sdl/sdl-1.2/src/cdrom
+http://doom-android.googlecode.com/svn
+
+
+
+2011-01-12T19:14:09.424345Z
+2
+niuzb1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13ed9f35-2efe-7f63-0e93-c3747f39537f
+
+bsdi
+dir
+
+aix
+dir
+
+dc
+dir
+
+osf
+dir
+
+SDL_cdrom.c
+file
+
+
+
+
+2011-05-05T03:23:45.255200Z
+7c487705836ad50e6371fe55bc246bce
+2011-01-12T19:14:09.424345Z
+2
+niuzb1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7484
+
+beos
+dir
+
+openbsd
+dir
+
+macosx
+dir
+
+dummy
+dir
+
+SDL_syscdrom.h
+file
+
+
+
+
+2011-05-05T03:23:45.255200Z
+d0d0d39b5e4b6ab05f4611bba014f547
+2011-01-12T19:14:09.424345Z
+2
+niuzb1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2492
+
+linux
+dir
+
+macos
+dir
+
+win32
+dir
+
+os2
+dir
+
+qnx
+dir
+
+mint
+dir
+
+freebsd
+dir
+

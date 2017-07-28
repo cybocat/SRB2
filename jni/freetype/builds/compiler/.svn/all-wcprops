@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/compiler
+END
+emx.mk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/compiler/emx.mk
+END
+watcom.mk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/compiler/watcom.mk
+END
+win-lcc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/compiler/win-lcc.mk
+END
+gcc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/compiler/gcc.mk
+END
+ansi-cc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/compiler/ansi-cc.mk
+END
+intelc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/compiler/intelc.mk
+END
+visualage.mk
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/compiler/visualage.mk
+END
+unix-lcc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/compiler/unix-lcc.mk
+END
+bcc-dev.mk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/compiler/bcc-dev.mk
+END
+visualc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/compiler/visualc.mk
+END
+bcc.mk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/compiler/bcc.mk
+END
+gcc-dev.mk
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/6/trunk/project/jni/freetype/builds/compiler/gcc-dev.mk
+END

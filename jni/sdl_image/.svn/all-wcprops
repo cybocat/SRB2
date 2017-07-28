@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/2/trunk/project/jni/sdl_image
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/configure
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/Makefile.in
+END
+SDL_image.spec.in
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/SDL_image.spec.in
+END
+IMG_lbm.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/IMG_lbm.c
+END
+depcomp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/depcomp
+END
+config.guess
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/config.guess
+END
+Watcom-OS2.zip
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/Watcom-OS2.zip
+END
+ltmain.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/ltmain.sh
+END
+IMG.c
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/IMG.c
+END
+IMG_jpg.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/IMG_jpg.c
+END
+config.sub
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/config.sub
+END
+IMG_png.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/IMG_png.c
+END
+Xcode.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/Xcode.tar.gz
+END
+IMG_pnm.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/IMG_pnm.c
+END
+VisualC.zip
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/VisualC.zip
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/COPYING
+END
+CHANGES
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/CHANGES
+END
+Xcode_iPhone.tar.gz
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/Xcode_iPhone.tar.gz
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/autogen.sh
+END
+SDL_image.spec
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/SDL_image.spec
+END
+MPWmake.sea.bin
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/MPWmake.sea.bin
+END
+IMG_xpm.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/IMG_xpm.c
+END
+IMG_gif.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/IMG_gif.c
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/Android.mk
+END
+configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/configure.in
+END
+IMG_ImageIO.c
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/IMG_ImageIO.c
+END
+IMG_tga.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/IMG_tga.c
+END
+version.rc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/version.rc
+END
+SDL_image.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/SDL_image.pc.in
+END
+IMG_bmp.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/IMG_bmp.c
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/README
+END
+IMG_xcf.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/IMG_xcf.c
+END
+IMG_tif.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/IMG_tif.c
+END
+IMG_xxx.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/IMG_xxx.c
+END
+IMG_UIImage.m
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/IMG_UIImage.m
+END
+IMG_pcx.c
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/IMG_pcx.c
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/Makefile.am
+END
+missing
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/missing
+END
+SDL_image.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/SDL_image.h
+END
+IMG_xv.c
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/IMG_xv.c
+END
+VisualCE.zip
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/VisualCE.zip
+END
+gcc-fat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/gcc-fat.sh
+END
+aclocal.m4
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/aclocal.m4
+END
+install-sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/install-sh
+END

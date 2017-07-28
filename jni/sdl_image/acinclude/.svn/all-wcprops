@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/acinclude
+END
+ltsugar.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/acinclude/ltsugar.m4
+END
+pkg.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/acinclude/pkg.m4
+END
+sdl.m4
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/acinclude/sdl.m4
+END
+libtool.m4
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/acinclude/libtool.m4
+END
+ltversion.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/acinclude/ltversion.m4
+END
+lt~obsolete.m4
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/acinclude/lt~obsolete.m4
+END
+ltoptions.m4
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/sdl_image/acinclude/ltoptions.m4
+END

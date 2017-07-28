@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/main/macosx
+END
+SDLMain.m
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/main/macosx/SDLMain.m
+END
+info.nib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/main/macosx/info.nib
+END
+Info.plist.in
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/main/macosx/Info.plist.in
+END
+SDLMain.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/main/macosx/SDLMain.h
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/2/trunk/project/jni/png/projects/beos
+END
+x86-shared.proj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/project/jni/png/projects/beos/x86-shared.proj
+END
+x86-static.proj
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/project/jni/png/projects/beos/x86-static.proj
+END
+x86-shared.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/png/projects/beos/x86-shared.txt
+END
+x86-static.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/png/projects/beos/x86-static.txt
+END

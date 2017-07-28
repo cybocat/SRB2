@@ -1,0 +1,169 @@
+10
+
+dir
+17
+http://doom-android.googlecode.com/svn/trunk/project/jni
+http://doom-android.googlecode.com/svn
+
+
+
+2011-03-16T07:02:52.027859Z
+15
+niuzb1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13ed9f35-2efe-7f63-0e93-c3747f39537f
+
+mikmod
+dir
+
+sdl
+file
+
+
+
+
+2011-05-05T03:23:22.775600Z
+06c4fc8e5e65f16b21bc066ba13bb802
+2011-01-12T19:14:09.424345Z
+2
+niuzb1
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42
+
+freetype
+dir
+
+png
+dir
+
+sdl_image
+dir
+
+jpeg
+dir
+
+Android.mk
+file
+
+
+
+
+2011-05-05T03:23:22.791200Z
+8191843230a2233f056b225197c2b284
+2011-03-16T07:02:06.673532Z
+13
+niuzb1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2238
+
+sdl_main
+dir
+
+sdl_mixer
+dir
+
+sdl_gfx
+dir
+
+doomsdl
+dir
+
+application
+dir
+
+intl
+dir
+
+stlport
+dir
+
+tremor
+dir
+
+Application.mk
+file
+
+
+
+
+2011-05-05T03:23:22.806800Z
+a3c1dfc57b76cb6c9684ce32719f7acd
+2011-01-12T19:14:09.424345Z
+2
+niuzb1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+357
+

@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pshinter
+END
+pshglob.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pshinter/pshglob.c
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pshinter/rules.mk
+END
+pshmod.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pshinter/pshmod.h
+END
+pshalgo.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pshinter/pshalgo.h
+END
+pshglob.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pshinter/pshglob.h
+END
+pshrec.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pshinter/pshrec.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pshinter/Jamfile
+END
+pshpic.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pshinter/pshpic.c
+END
+pshrec.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pshinter/pshrec.h
+END
+pshnterr.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pshinter/pshnterr.h
+END
+pshmod.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pshinter/pshmod.c
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pshinter/module.mk
+END
+pshpic.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pshinter/pshpic.h
+END
+pshalgo.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/pshinter/pshalgo.c
+END

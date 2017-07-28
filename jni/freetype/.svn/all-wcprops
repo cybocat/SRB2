@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/6/trunk/project/jni/freetype
+END
+vms_make.com
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/project/jni/freetype/vms_make.com
+END
+README.git
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/project/jni/freetype/README.git
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/project/jni/freetype/configure
+END
+Jamrules
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/project/jni/freetype/Jamrules
+END
+Android.mk
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/project/jni/freetype/Android.mk
+END
+ChangeLog
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/6/trunk/project/jni/freetype/ChangeLog
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/6/trunk/project/jni/freetype/README
+END
+version.sed
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/project/jni/freetype/version.sed
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/project/jni/freetype/.gitignore
+END
+modules.cfg
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/6/trunk/project/jni/freetype/modules.cfg
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6/trunk/project/jni/freetype/Jamfile
+END
+ChangeLog.20
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/project/jni/freetype/ChangeLog.20
+END
+ChangeLog.21
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/project/jni/freetype/ChangeLog.21
+END
+ChangeLog.22
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/project/jni/freetype/ChangeLog.22
+END
+autogen.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/project/jni/freetype/autogen.sh
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/6/trunk/project/jni/freetype/Makefile
+END

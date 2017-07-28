@@ -1,0 +1,1061 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/15/trunk/project/jni/application/doom/src
+END
+p_floor.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_floor.c
+END
+r_drawspan.inl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_drawspan.inl
+END
+i_network.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/i_network.h
+END
+r_fps.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_fps.c
+END
+doomdef.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/doomdef.c
+END
+dynamic_flac.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/dynamic_flac.h
+END
+r_fps.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_fps.h
+END
+g_game.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/g_game.c
+END
+r_patch.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_patch.c
+END
+d_client.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/d_client.c
+END
+doomdef.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/doomdef.h
+END
+i_video.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/i_video.h
+END
+g_game.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/g_game.h
+END
+r_patch.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_patch.h
+END
+v_video.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/v_video.c
+END
+p_genlin.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_genlin.c
+END
+r_drawcolumn.inl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_drawcolumn.inl
+END
+p_user.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_user.c
+END
+v_video.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/v_video.h
+END
+p_user.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_user.h
+END
+r_drawcolpipeline.inl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_drawcolpipeline.inl
+END
+p_pspr.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_pspr.c
+END
+close_code.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/close_code.h
+END
+z_zone.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/z_zone.c
+END
+p_pspr.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_pspr.h
+END
+z_zone.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/z_zone.h
+END
+d_server.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/d_server.c
+END
+sounds.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/sounds.c
+END
+m_argv.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/m_argv.c
+END
+r_drawflush.inl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_drawflush.inl
+END
+w_mmap.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/w_mmap.c
+END
+load_ogg.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/load_ogg.h
+END
+m_argv.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/m_argv.h
+END
+sounds.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/sounds.h
+END
+wavestream.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/wavestream.h
+END
+chat.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/chat.h
+END
+dynamic_ogg.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/dynamic_ogg.h
+END
+r_sky.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_sky.c
+END
+m_swap.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/m_swap.h
+END
+r_sky.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_sky.h
+END
+st_stuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/st_stuff.c
+END
+dstrings.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/dstrings.c
+END
+p_inter.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_inter.c
+END
+i_system.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/i_system.h
+END
+st_stuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/st_stuff.h
+END
+dstrings.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/dstrings.h
+END
+f_finale.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/f_finale.c
+END
+r_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_main.c
+END
+p_inter.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_inter.h
+END
+m_bbox.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/m_bbox.c
+END
+music_mad.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/music_mad.h
+END
+f_finale.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/f_finale.h
+END
+r_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_main.h
+END
+m_bbox.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/m_bbox.h
+END
+effects_internal.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/effects_internal.h
+END
+m_fixed.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/m_fixed.h
+END
+p_switch.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_switch.c
+END
+music_ogg.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/music_ogg.h
+END
+w_memcache.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/w_memcache.c
+END
+doomstat.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/doomstat.c
+END
+m_random.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/m_random.c
+END
+doomstat.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/doomstat.h
+END
+m_cheat.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/m_cheat.c
+END
+i_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/i_main.h
+END
+m_random.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/m_random.h
+END
+z_bmalloc.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/z_bmalloc.c
+END
+doomtype.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/doomtype.h
+END
+r_bsp.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_bsp.c
+END
+m_cheat.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/m_cheat.h
+END
+r_demo.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_demo.c
+END
+r_state.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_state.h
+END
+gl_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/gl_main.c
+END
+protocol.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/protocol.h
+END
+z_bmalloc.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/z_bmalloc.h
+END
+dynamic_mp3.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/dynamic_mp3.h
+END
+load_aiff.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/load_aiff.h
+END
+f_wipe.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/f_wipe.c
+END
+load_flac.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/load_flac.h
+END
+r_demo.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_demo.h
+END
+r_bsp.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_bsp.h
+END
+r_things.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_things.c
+END
+i_joy.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/i_joy.h
+END
+r_draw.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_draw.c
+END
+f_wipe.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/f_wipe.h
+END
+lprintf.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/lprintf.c
+END
+gl_texture.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/gl_texture.c
+END
+r_things.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_things.h
+END
+r_draw.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_draw.h
+END
+lprintf.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/lprintf.h
+END
+dynamic_mod.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/dynamic_mod.h
+END
+d_englsh.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/d_englsh.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/Makefile.am
+END
+i_system.c.bak
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/i_system.c.bak
+END
+r_data.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_data.c
+END
+p_enemy.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_enemy.c
+END
+r_data.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_data.h
+END
+Makefile.in
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/Makefile.in
+END
+p_enemy.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_enemy.h
+END
+d_deh.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/d_deh.c
+END
+d_deh.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/d_deh.h
+END
+p_lights.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_lights.c
+END
+p_spec.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_spec.c
+END
+config.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/config.h
+END
+d_ticcmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/d_ticcmd.h
+END
+p_spec.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_spec.h
+END
+m_menu.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/m_menu.c
+END
+p_ceilng.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_ceilng.c
+END
+r_segs.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_segs.c
+END
+music_mod.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/music_mod.h
+END
+md5.c
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/md5.c
+END
+m_menu.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/m_menu.h
+END
+r_segs.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_segs.h
+END
+d_event.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/d_event.h
+END
+md5.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/md5.h
+END
+am_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/am_map.c
+END
+info.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/info.c
+END
+p_map.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_map.c
+END
+d_net.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/d_net.h
+END
+am_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/am_map.h
+END
+info.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/info.h
+END
+p_map.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_map.h
+END
+p_plats.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_plats.c
+END
+d_player.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/d_player.h
+END
+music_flac.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/music_flac.h
+END
+st_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/st_lib.c
+END
+p_setup.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_setup.c
+END
+p_checksum.c
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_checksum.c
+END
+st_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/st_lib.h
+END
+d_items.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/d_items.c
+END
+p_setup.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_setup.h
+END
+version.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/version.c
+END
+p_checksum.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_checksum.h
+END
+wi_stuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/wi_stuff.c
+END
+d_items.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/d_items.h
+END
+version.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/version.h
+END
+wi_stuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/wi_stuff.h
+END
+load_voc.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/load_voc.h
+END
+p_sight.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_sight.c
+END
+doomdata.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/doomdata.h
+END
+hu_lib.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/hu_lib.c
+END
+p_doors.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_doors.c
+END
+i_sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/i_sound.h
+END
+r_filter.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_filter.c
+END
+hu_lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/hu_lib.h
+END
+r_defs.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_defs.h
+END
+music_cmd.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/music_cmd.h
+END
+s_sound.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/project/jni/application/doom/src/s_sound.c
+END
+r_filter.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_filter.h
+END
+s_sound.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/s_sound.h
+END
+r_plane.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_plane.c
+END
+p_maputl.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_maputl.c
+END
+hu_stuff.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/hu_stuff.c
+END
+begin_code.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/begin_code.h
+END
+p_saveg.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_saveg.c
+END
+r_plane.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/r_plane.h
+END
+d_think.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/d_think.h
+END
+p_maputl.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_maputl.h
+END
+hu_stuff.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/hu_stuff.h
+END
+p_saveg.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_saveg.h
+END
+mmus2mid.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/mmus2mid.c
+END
+w_wad.c
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/w_wad.c
+END
+mmus2mid.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/mmus2mid.h
+END
+p_mobj.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_mobj.c
+END
+w_wad.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/w_wad.h
+END
+m_misc.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/m_misc.c
+END
+p_tick.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_tick.c
+END
+tables.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/tables.c
+END
+p_mobj.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_mobj.h
+END
+gl_struct.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/gl_struct.h
+END
+p_telept.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_telept.c
+END
+m_misc.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/m_misc.h
+END
+p_tick.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/p_tick.h
+END
+tables.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/tables.h
+END
+gl_intern.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/gl_intern.h
+END
+d_main.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/d_main.c
+END
+d_main.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/application/doom/src/d_main.h
+END

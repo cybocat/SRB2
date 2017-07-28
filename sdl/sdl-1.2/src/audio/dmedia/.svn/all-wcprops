@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/audio/dmedia
+END
+SDL_irixaudio.c
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/audio/dmedia/SDL_irixaudio.c
+END
+SDL_irixaudio.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/2/trunk/project/sdl/sdl-1.2/src/audio/dmedia/SDL_irixaudio.h
+END

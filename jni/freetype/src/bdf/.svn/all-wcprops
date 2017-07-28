@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/bdf
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/bdf/rules.mk
+END
+bdf.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/bdf/bdf.h
+END
+bdfdrivr.c
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/bdf/bdfdrivr.c
+END
+bdflib.c
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/bdf/bdflib.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/bdf/Jamfile
+END
+bdfdrivr.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/bdf/bdfdrivr.h
+END
+bdferror.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/bdf/bdferror.h
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/bdf/module.mk
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/bdf/README
+END

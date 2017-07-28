@@ -1,0 +1,353 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/2/trunk/project/jni/png/scripts
+END
+makefile.64sunu
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.64sunu
+END
+libpng.pc.in
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/libpng.pc.in
+END
+libpng-config-head.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/libpng-config-head.in
+END
+pngw32.rc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/pngw32.rc
+END
+makefile.mips
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.mips
+END
+makefile.ibmc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.ibmc
+END
+makefile.freebsd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.freebsd
+END
+makefile.gcmmx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.gcmmx
+END
+makefile.solaris
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.solaris
+END
+makefile.netbsd
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.netbsd
+END
+makefile.aix
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.aix
+END
+makefile.mingw
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.mingw
+END
+makefile.sgi
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.sgi
+END
+makefile.bor
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.bor
+END
+makefile.msc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.msc
+END
+makefile.hpux
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.hpux
+END
+makefile.hpgcc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.hpgcc
+END
+makefile.sco
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.sco
+END
+makefile.darwin
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.darwin
+END
+pngos2.def
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/pngos2.def
+END
+makefile.tc3
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.tc3
+END
+makefile.vcwin32
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.vcwin32
+END
+makefile.nommx
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.nommx
+END
+makefile.ne12bsd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.ne12bsd
+END
+makefile.linux
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.linux
+END
+makefile.32sunu
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.32sunu
+END
+makefile.cygwin
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.cygwin
+END
+pngw32.def
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/pngw32.def
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/CMakeLists.txt
+END
+makefile.acorn
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.acorn
+END
+makefile.os2
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.os2
+END
+makevms.com
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makevms.com
+END
+smakefile.ppc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/smakefile.ppc
+END
+makefile.elf
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.elf
+END
+libpng-config.in
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/libpng-config.in
+END
+makefile.sunos
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.sunos
+END
+descrip.mms
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/descrip.mms
+END
+makefile.so9
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.so9
+END
+makefile.intel
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.intel
+END
+makefile.amiga
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.amiga
+END
+makefile.dj2
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.dj2
+END
+makefile.hp64
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.hp64
+END
+libpng.pc-configure.in
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/libpng.pc-configure.in
+END
+makefile.sggcc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.sggcc
+END
+SCOPTIONS.ppc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/SCOPTIONS.ppc
+END
+makefile.beos
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.beos
+END
+makefile.bc32
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.bc32
+END
+makefile.openbsd
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.openbsd
+END
+makefile.watcom
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.watcom
+END
+makefile.std
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.std
+END
+makefile.knr
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.knr
+END
+makefile.dec
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.dec
+END
+makefile.gcc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.gcc
+END
+makefile.vcawin32
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.vcawin32
+END
+libpng.icc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/libpng.icc
+END
+makefile.solaris-x86
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.solaris-x86
+END
+makefile.atari
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/makefile.atari
+END
+libpng-config-body.in
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/2/trunk/project/jni/png/scripts/libpng-config-body.in
+END

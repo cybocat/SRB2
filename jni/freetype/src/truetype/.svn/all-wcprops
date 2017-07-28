@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype
+END
+ttgload.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype/ttgload.c
+END
+ttgxvar.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype/ttgxvar.c
+END
+ttgload.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype/ttgload.h
+END
+ttdriver.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype/ttdriver.c
+END
+ttgxvar.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype/ttgxvar.h
+END
+ttobjs.c
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype/ttobjs.c
+END
+ttpload.c
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype/ttpload.c
+END
+ttdriver.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype/ttdriver.h
+END
+ttinterp.c
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype/ttinterp.c
+END
+module.mk
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype/module.mk
+END
+ttobjs.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype/ttobjs.h
+END
+ttpload.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype/ttpload.h
+END
+ttinterp.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype/ttinterp.h
+END
+rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype/rules.mk
+END
+ttpic.c
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype/ttpic.c
+END
+Jamfile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype/Jamfile
+END
+ttpic.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype/ttpic.h
+END
+tterrors.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/6/trunk/project/jni/freetype/src/truetype/tterrors.h
+END
